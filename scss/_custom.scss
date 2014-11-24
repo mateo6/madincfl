@@ -1,0 +1,30 @@
+$darg-gray-j-color: #19191A;
+
+header.navigation {
+  background-color: $darg-gray-j-color !important;
+}
+
+
+body .custom-logo {
+  height: 9em !important;
+}
+
+.footer {
+  background-color: $darg-gray-j-color !important;
+}
+
+.hero {
+  padding-bottom: 0 !important;
+  background: none !important;
+  background-color: $darg-gray-j-color !important;
+}
+
+.hero-inner {
+  padding: 0 !important;
+}
+
+.hero-logo {
+  img {
+    height: 12em !important;
+  }
+}
